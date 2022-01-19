@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/azarath1/medio_backend_task#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.2"
   }
 }
